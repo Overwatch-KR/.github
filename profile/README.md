@@ -23,7 +23,7 @@
 
 ## Projects
 
-### <img src="./assets/owkr-match-logo.png" width="36" alt="OWKR Match 로고" /> [OWKR Match](https://github.com/Overwatch-KR/owkr-Internal-balance)
+### <a href="https://github.com/Overwatch-KR/owkr-Internal-balance"><img src="./assets/owkr-match-logo.png" width="36" alt="OWKR Match 로고" /></a> [OWKR Match](https://github.com/Overwatch-KR/owkr-Internal-balance)
 
 > 참가자 정보부터 균형 잡힌 팀 구성까지 한 화면에서 관리하는 운영진용 웹 도구
 
@@ -32,9 +32,7 @@
 Discord에서 복사한 참가 명단을 분석하고 역할 선호도와 티어 차이를 고려해 두 팀을 구성합니다.
 운영진 공유 정보와 개인 메모, 대기열, 수동 교체까지 실제 내전 운영 흐름에 맞춰 제공합니다.
 
-[프로젝트 살펴보기 →](https://github.com/Overwatch-KR/owkr-Internal-balance)
-
-### <img src="./assets/owkr-gather-bot-logo.png" width="36" alt="OWKR Gather Bot 로고" /> [OWKR Gather Bot](https://github.com/Overwatch-KR/owkr-gather-bot) `개발 중`
+### <a href="https://github.com/Overwatch-KR/owkr-gather-bot"><img src="./assets/owkr-gather-bot-logo.png" width="36" alt="OWKR Gather Bot 로고" /></a> [OWKR Gather Bot](https://github.com/Overwatch-KR/owkr-gather-bot) `개발 중`
 
 > 모집 공지부터 티어 수집과 대기실 안내까지 이어 주는 Discord 내전 운영 봇
 
@@ -42,8 +40,6 @@ Discord에서 복사한 참가 명단을 분석하고 역할 선호도와 티어
 
 반응 순서대로 참가자와 대기자를 관리하고 여러 내전을 동시에 운영합니다.
 모집 완료 후 티어 제출을 연결하고, 경기 전 대기실 미입장 안내와 운영 상태 복구까지 담당합니다.
-
-[프로젝트 살펴보기 →](https://github.com/Overwatch-KR/owkr-gather-bot)
 
 ## 우리가 중요하게 생각하는 것
 
