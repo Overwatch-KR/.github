@@ -7,10 +7,10 @@
 
 ## 어디서 시작하나요?
 
-- **내전 참가자** — [내전 규정과 FAQ](https://overwatch-kr.github.io/owkr-docs/)를 확인하고 Discord에서 모집에 참여하세요.
-- **관리자 지원자** — 운영진의 응시 안내를 받은 뒤 [관리자 시험 웹](https://owkr-exam.vercel.app)에서 Discord 로그인과 응시 코드 입력을 진행하세요.
-- **내전 관리자** — [OWKR Match](https://owkr-internal-balance.vercel.app/)에서 참가 명단과 팀 편성을 관리하세요. 접근에는 운영진 권한이 필요합니다.
-- **개발 참여자** — 아래 저장소의 README에서 실행 방법과 프로젝트별 범위를 확인하세요.
+- **내전 참가자** · [내전 규정과 FAQ](https://overwatch-kr.github.io/owkr-docs/)를 확인하고 Discord에서 모집에 참여하세요.
+- **관리자 지원자** · 운영진의 응시 안내를 받은 뒤 [관리자 시험 웹](https://owkr-exam.vercel.app)에서 Discord 로그인과 응시 코드 입력을 진행하세요.
+- **내전 관리자** · [OWKR Match](https://owkr-internal-balance.vercel.app/)에서 참가 명단과 팀 편성을 관리하세요. 접근에는 운영진 권한이 필요합니다.
+- **개발 참여자** · 아래 저장소의 README에서 실행 방법과 프로젝트별 범위를 확인하세요.
 
 ## 프로젝트
 
